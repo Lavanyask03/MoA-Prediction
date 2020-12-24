@@ -26,4 +26,9 @@ The code can be run in any of the following ways:
 * After KFold Cross validation, it could achieve a score of 0.01914 on public dataset and 0.01668 on private dataset.
 
 ## Personal experience:
-This was the very frist time I participated in a live Data Science Competition and I did learn a lot of things on the way. Although I was just starting out in data science, I did manage to reach among the top 49% in the competition. I plan to participate in more competitions in the future.
+This was the very frist time I participated in a live Data Science Competition and I did learn a lot of things on the way. Thanks to the Kaggle communtiy. Although I was just starting out in data science, I did manage to reach among the top 49% in the competition. I plan to participate in more competitions in the future.
+
+## Kaggle notebook links:
+1. [EDA](https://www.kaggle.com/lavanyask/moa-prediction-eda)
+2. [NN](https://www.kaggle.com/lavanyask/moa-prediction-neural-network)
+3. [KFold](https://www.kaggle.com/lavanyask/moa-prediction-nn-kfold)
