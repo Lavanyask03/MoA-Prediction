@@ -7,6 +7,7 @@ The goal of the competition is advancing drug development through improvements t
 
 * **Data**: Gene expression data and cell viability data, compound or control perturbations, time and dosage of drugs along with the targets. 
 * **Evaluation Function**: log loss.
+* **Problem Type**: Multilabel Classification problem.
 
 Take a look at the competition data, rules and evaluation criteria :  [MoA Prediction](https://www.kaggle.com/c/lish-moa)
 
@@ -17,9 +18,9 @@ Take a look at the competition data, rules and evaluation criteria :  [MoA Predi
 
 ## Run the code:
 The code can be run in any of the following ways:
-1. Run on Kaggle: The notebooks can be found on kaggle and can be directly run on kaggle by clicking the copy and edit button on the top right corner.
-2. Run on Google Colab: The notebooks can be downloaded from github and run on Google Colab which has access to free cloud resources provided by Google.
-3. Run on local machine: The code can be downloaded or you can also clone the repository. The notebooks can be run using jupyter-notebook on your local machine. Make sure that you have all the required libraries installed.
+1. **Run on Kaggle**: The notebooks can be found on kaggle and can be directly run on kaggle by clicking the copy and edit button on the top right corner.
+2. **Run on Google Colab**: The notebooks can be downloaded from github and run on Google Colab which has access to free cloud resources provided by Google.
+3. **Run on local machine**: The code can be downloaded or you can also clone the repository. The notebooks can be run using jupyter-notebook on your local machine. Make sure that you have all the required libraries installed.
 
 ## Results:
 * The simple NN model got a score of 0.02018 on public dataset and 0.01761 on private dataset.
